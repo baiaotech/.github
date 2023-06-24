@@ -9,4 +9,4 @@ O Baião.Tech surgiu com o objetivo de aproximar as comunidades de desenvolvedor
 
 O manifesto Baião Tech é assinado por:
 
-@nathannael - GDG Fortaleza 
+@Nathannael - GDG Fortaleza 
